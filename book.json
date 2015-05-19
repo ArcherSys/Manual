@@ -2,16 +2,10 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {
-        "disqus": {
-            "plugins": [
-                "disqus"
-            ],
             "pluginsConfig": {
                 "disqus": {
                     "shortName": "archersysos"
                 }
             }
         }
-    }
 }
