@@ -2,7 +2,7 @@
 
 * [introduction](README.md)
 * [Overview Of ArcherSys OS](overview_of_archersys_os.md)
-* [Book 1: For Developers](developer/README.md)
+* [Developer Intro](developer/README.md)
 * [Developer](developer.md)
 * [The Main Course](the_main_course.md)
 
