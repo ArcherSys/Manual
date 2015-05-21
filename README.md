@@ -49,8 +49,10 @@ Directions
 
 ArcherBash
 =========
-##1. What Is ArcherBash
-  ArcherBash is a term for a special kind of Windows Ternimal VM (like that of Cygwin) Where Packages for PIP are ArcherBashPy (or Arpy Packages) , RubyGems are ArcherSys OS Applications, and More.
+##1. What Is ArcherBash?
+
+  ArcherBash is  a special kind of Windows terminal framework where these  packages are used for ArcherBashPy.
+  
 ##Python
 ### To Run The Python VENV on the Hard Drive:
   1. type ``` Scripts\activate ```
