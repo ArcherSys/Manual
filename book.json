@@ -1,11 +1,28 @@
 {
     "plugins": [
-        "disqus"
+        "disqus","autocover"
     ],
             "pluginsConfig": {
                 "disqus": {
                     "shortName": "archersysos"
-                }
-            }
-        }
+                },
+                "autocover": {
+                    
+    "title": "Official ArcherSys OS Manual",
+    "author": "ArcherSys OS Foundation",
+    "font": {
+        "size": null,
+        "family": "Segoe UI, Trebuchet MS",
+        "color": "orange"
+    },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "image":"cover-back.jpg"
+    }
 }
+        }
+            }
+        
