@@ -19,3 +19,4 @@ $view = new View("Example", function(){
 });
 ?>
 ```
+To Develop in Python go [here](lib_cmd.md)
