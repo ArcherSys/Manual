@@ -8,4 +8,4 @@ ArcherVMCashew
 ArcherVMPeridot
 
 To learn how to install the Operating System,
-Goto the [Installation Section](installation\README.md)
+Goto the [TOC for Book 2](SUMMARY.md)
