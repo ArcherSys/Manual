@@ -7,3 +7,5 @@ ArcherVMCashew
 2. 
 ArcherVMPeridot
 
+To learn how to install the Operating System,
+Goto the (Installation Section
