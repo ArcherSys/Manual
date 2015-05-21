@@ -8,7 +8,7 @@
 - Install RailsInstaller and Python
 - Install nodejs-portable if not already.
   
-  Y will need this for Gitbooks.io to be an author
+  You will need this for Gitbooks.io to be an author of this book
 - 
 - Type ``` cd <PATH>/htdocs ```
 - Type ``` git init ``` 
@@ -16,3 +16,4 @@
 -  Type ``` git pull origin master ```
 -  Register for ArcherSys OS
 -  Download any Applications at the [ArcherSys OS Apporium](https://apporium-acosf.c9.io/apps)
+-  
