@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "autocover"
+        "autocover",
+        "share"
     ],
     "pluginsConfig": {
         "disqus": {
