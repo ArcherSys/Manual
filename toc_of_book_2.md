@@ -2,3 +2,4 @@
 
 * 
 [Installation](installation)
+* [Registration](registration)
