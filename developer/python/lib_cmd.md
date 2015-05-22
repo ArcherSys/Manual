@@ -11,5 +11,10 @@ or
 from Lib.archersys.contrib.externalized.core import AbstractActivityKernel
 # API for activity here
 ```
-This is Python. The first one was KPython, or ArcherVMPeridot Python. that is located
+This is Python. The first one was KPython, or ArcherVMPeridot Python. To create an ActivityKernel, do this:
+
+```
+class MyActivityKernel(AbstractActvityKernel):
+    
+```
 
