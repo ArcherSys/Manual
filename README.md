@@ -56,3 +56,6 @@ ArcherBash
 ##Python
 ### To Run The Python VENV on the Hard Drive:
   1. type ``` Scripts\activate ```
+  2. 
+  
+<!--toc-->
