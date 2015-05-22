@@ -17,4 +17,10 @@ This is Python. The first one was KPython, or ArcherVMPeridot Python. To create 
 class MyActivityKernel(AbstractActvityKernel):
     
 ```
+Then, do this
+```
+def __init__(self,api_key,api_secret):
+   AbstractActivityKernel.__init__(self,api_key,api_secret)
+   
+```
 
