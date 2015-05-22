@@ -58,4 +58,3 @@ ArcherBash
   1. type ``` Scripts\activate ```
   2. 
   
-<!--toc-->
