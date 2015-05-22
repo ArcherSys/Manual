@@ -1,9 +1,13 @@
 # Glossary
 
+## ActivityKernel
+
+A Cmd Shell CLI wrapped with an External API
+
 ## ArcherSys OS
 
 The Name of the Website-based OS this book documents.
 
-## ActivityKernel
+## KPython
 
-A Cmd Shell CLI wrapped with an External API
+Thawspace ArcherPython
