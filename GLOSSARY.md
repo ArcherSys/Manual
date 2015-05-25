@@ -43,3 +43,7 @@ The main web server Kernel of the ArcherVM Specification
 ## cmd
 
 The Python module used to create interactive shell user interfaces
+
+## CLI
+
+Command Line Interface
