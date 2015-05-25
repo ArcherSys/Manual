@@ -15,5 +15,5 @@
        * [Applications](applications.md)
            * [PDFLint](users/apps/pdflint/README.md)
                * [PDFLint - First Steps](users/apps/pdflint/pdflint_first_steps.md)
-* [Book  3: For Artists](book_3__for_artists.md)
+* [Book  3: For Artists](artists\README.md)
 
