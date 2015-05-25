@@ -12,6 +12,5 @@
    * [TOC of Book 2](toc_of_book_2.md)
    * [Installation](users/installation/README.md)
    * [How to use ArcherSys OS Products](how_to_use_archersys_os_products.md)
-       * PDFLint
        * Applications
 
