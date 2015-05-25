@@ -1,2 +1,0 @@
-# PDFLint - First Steps
-
