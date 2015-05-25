@@ -1,5 +1,4 @@
 
-
 # Book  3: For Artists
 
 ## What is this?
