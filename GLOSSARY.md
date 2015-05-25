@@ -15,3 +15,7 @@ Thawspace ArcherPython
 ## PDFLint
 
 The Operating system's official Word Processor
+
+## IDLE
+
+The Official IDE of Python
