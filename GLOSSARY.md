@@ -12,6 +12,10 @@ A Cmd Shell CLI wrapped with an External API
 
 The Name of the Website-based OS this book documents.
 
+## CLI Artistry
+
+Drawings using Python's Turtle Module and the cmd Module
+
 ## Developer
 
 A person who codes for a living
@@ -36,6 +40,6 @@ The Operating system's official Word Processor
 
 The main web server Kernel of the ArcherVM Specification
 
-## CLI Artistry
+## cmd
 
-Drawings using Python's Turtle Module and the cmd Module
+The Python module used to create interactive shell user interfaces
