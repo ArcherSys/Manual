@@ -8,6 +8,10 @@ A Cmd Shell CLI wrapped with an External API
 
 The Name of the Website-based OS this book documents.
 
+## IDLE
+
+The Official IDE of Python
+
 ## KPython
 
 Thawspace ArcherPython
@@ -16,6 +20,6 @@ Thawspace ArcherPython
 
 The Operating system's official Word Processor
 
-## IDLE
+## XAMPP
 
-The Official IDE of Python
+The main web server Kernel of the ArcherVM Specification
