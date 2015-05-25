@@ -12,5 +12,5 @@ Virtually, it costs absolutely nothing.
 Yes! It is also a PHP Composer package (Packagist)! The  best thing about this package is that it has the best document creator, Dropbox support, a file browser, and more.
 
 ## How do I get started?
-1. [First steps]()
+1. [First steps](first_steps.md)
 
