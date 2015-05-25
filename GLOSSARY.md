@@ -23,3 +23,7 @@ The Operating system's official Word Processor
 ## XAMPP
 
 The main web server Kernel of the ArcherVM Specification
+
+## Developers
+
+The Workers of the ArcherSys OS Project
