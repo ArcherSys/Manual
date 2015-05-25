@@ -8,6 +8,10 @@ A Cmd Shell CLI wrapped with an External API
 
 The Name of the Website-based OS this book documents.
 
+## Developer
+
+A person who codes for a living
+
 ## Developers
 
 The Workers of the ArcherSys OS Project
@@ -28,6 +32,5 @@ The Operating system's official Word Processor
 
 The main web server Kernel of the ArcherVM Specification
 
-## Developer
+## 
 
-A person who codes for a living
