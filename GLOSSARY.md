@@ -1,5 +1,9 @@
 # Glossary
 
+## APUSH
+
+AP US History
+
 ## ActivityKernel
 
 A Cmd Shell CLI wrapped with an External API
@@ -32,6 +36,6 @@ The Operating system's official Word Processor
 
 The main web server Kernel of the ArcherVM Specification
 
-## APUSH
+## CLI Artistry
 
-AP US History
+Drawings using Python's Turtle Module and the cmd Module
