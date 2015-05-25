@@ -11,7 +11,7 @@
 * [Book 2: For Users](users/README.md)
    * [TOC of Book 2](toc_of_book_2.md)
    * [Installation](users/installation/README.md)
-   * [How to use ArcherSys OS Products](users\how_to_use_archersys_os_products.md)
-       * Applications
+   * [How to use ArcherSys OS Products](users/how_to_use_archersys_os_products.md)
+       * [Applications](applications.md)
            * [PDFLint](users/apps/pdflint/README.md)
 
