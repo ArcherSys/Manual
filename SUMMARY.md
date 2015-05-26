@@ -9,7 +9,7 @@
    * [Making an ArcherPythonEVM Instance with Python Code](making_an_archerpythonevm_instance_with_python_code.md)
    * [How to access IDLE from an ArcherVM](developer/python/how_to_use_idle.md)
    * Javascript
-       * How to Host your Scratch Game
+       * [How to Host your Scratch Game](how_to_host_your_scratch_game.md)
 * [Book 2: For Users](users/README.md)
    * [TOC of Book 2](toc_of_book_2.md)
    * [Installation](users/installation/README.md)
