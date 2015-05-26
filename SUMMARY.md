@@ -7,6 +7,7 @@
    * [Making an ArcherPythonEVM Instance with Python Code](making_an_archerpythonevm_instance_with_python_code.md)
    * [The DropboxActivity activity and its usage](developer/python/dropboxactivity.md)
    * [How to access IDLE from an ArcherVM](developer/python/how_to_use_idle.md)
+   * Javascript
 * [Overview Of ArcherSys OS](overview_of_archersys_os.md)
 * [Book 2: For Users](users/README.md)
    * [TOC of Book 2](toc_of_book_2.md)
@@ -17,5 +18,5 @@
                * [PDFLint - First Steps](users/apps/pdflint/pdflint_first_steps.md)
 * [Book  3: For Artists](artists/README.md)
    * [CLI](artists/CLI/README.md)
-       * [How to use Turtleist](artists\CLI\Turtleist\README.md)
+       * [How to use Turtleist](artists/CLI/Turtleist/README.md)
 
