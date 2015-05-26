@@ -7,8 +7,8 @@
    * [The DropboxActivity activity and its usage](developer/python/dropboxactivity.md)
    * [How to access IDLE from an ArcherVM](developer/python/how_to_use_idle.md)
    * Javascript
+       * [Making an ArcherPythonEVM Instance with Python Code](making_an_archerpythonevm_instance_with_python_code.md)
        * How to Host your Scratch Game
-* [Making an ArcherPythonEVM Instance with Python Code](making_an_archerpythonevm_instance_with_python_code.md)
 * [Overview Of ArcherSys OS](overview_of_archersys_os.md)
 * [Book 2: For Users](users/README.md)
    * [TOC of Book 2](toc_of_book_2.md)
