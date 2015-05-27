@@ -12,6 +12,10 @@ A Cmd Shell CLI wrapped with an External API
 
 The Name of the Website-based OS this book documents.
 
+## CLI
+
+Command Line Interface
+
 ## CLI Artistry
 
 Drawings using Python's Turtle Module and the cmd Module
@@ -44,6 +48,6 @@ The main web server Kernel of the ArcherVM Specification
 
 The Python module used to create interactive shell user interfaces
 
-## CLI
+## DevRake
 
-Command Line Interface
+An ArcherSys OS  Oriented version of Eclipse Available in The ArcherSys Os Apporium
