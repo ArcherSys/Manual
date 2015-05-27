@@ -20,5 +20,5 @@
 * [Book  3: For Artists](artists/README.md)
    * [CLI](artists/CLI/README.md)
        * [How to use Turtleist](artists/CLI/Turtleist/README.md)
-* FAQ
+* [FAQ](faq.md)
 
