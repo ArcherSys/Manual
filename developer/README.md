@@ -12,6 +12,7 @@ $view = new View("Example", function(){
 ?>
 <meta name="author" content="John Doe">
 <?php
+
 },function(){
 ?>
 <h1>Hello World</h1>
@@ -19,4 +20,26 @@ $view = new View("Example", function(){
 });
 ?>
 ```
+Another Example uses Bootstrap:
+```
+<?php
+  require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
+  use ArcherSys\Viewer\Contrib\View;
+  $bootstrap_view = new View("My Bootstrap View",function(){
+  ?>
+ //Use bootstrap Resources Here
+ <?php
+    , function(){
+    $container = new Container(function(){
+     ?>
+     <!---Content Here-->
+     <?php
+     });
+     });
+     ?>
+     
+  
+?>
+```
+This is the first Container Component to go in this API.
 To Develop in Python go [here](lib_cmd.md)
