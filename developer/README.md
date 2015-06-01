@@ -26,6 +26,7 @@ Another Example uses Bootstrap:
 
 
 !FILENAME example3.php
+
 ```
 <?php
   require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
