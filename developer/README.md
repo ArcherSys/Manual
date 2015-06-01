@@ -4,8 +4,8 @@
 
 The Philosophy is simple : Use the View.
 
-!FILENAME example.php
-```
+
+```:example.php
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
 use ArcherSys\Viewer\Contrib\View;
