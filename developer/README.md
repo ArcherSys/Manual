@@ -3,8 +3,8 @@
 ## How do you develop for ArcherSys OS?
 
 The Philosophy is simple : Use the View.
-
-```php:example1.php
+!FILENAME example1.php
+```
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
 use ArcherSys\Viewer\Contrib\View;
