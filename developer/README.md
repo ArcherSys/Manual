@@ -23,6 +23,7 @@ $view = new View("Example", function(){
 codeblock
 ```
 Another Example uses Bootstrap:
+!FILENAME example2.php
 ```
 <?php
   require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
@@ -42,8 +43,10 @@ Another Example uses Bootstrap:
      
   
 ?>
+codeblock
 ```
 Another Thing You Can Do in the Head Tag:
+!FILENAME example3.php
 ```
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
@@ -57,6 +60,8 @@ DescriptionManager::addAuthor("John Doe");
 <?php
 });
 ?>
+codeblock
+
 ```
 
 This is the first Container Component to go in this API.
