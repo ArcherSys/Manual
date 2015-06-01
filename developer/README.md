@@ -3,7 +3,15 @@
 ## How do you develop for ArcherSys OS?
 
 The Philosophy is simple : Use the View.
-!FILENAME example1.php
+
+!FILENAME test.js
+```
+var a = 10;
+a = a + 1;
+
+console.log(a);
+```
+
 ```
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
