@@ -23,9 +23,9 @@ $view = new View("Example", function(){
 codeblock
 ```
 Another Example uses Bootstrap:
-!FILENAME exampletwo.php
 
-```
+
+```php:example2.php
 <?php
   require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
   use ArcherSys\Viewer\Contrib\View;
