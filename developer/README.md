@@ -24,8 +24,8 @@ codeblock
 ```
 Another Example uses Bootstrap:
 
-
-```php:example2.php
+!FILENAME example3.php
+```
 <?php
   require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
   use ArcherSys\Viewer\Contrib\View;
