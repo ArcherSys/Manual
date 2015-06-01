@@ -20,6 +20,10 @@ Command Line Interface
 
 Drawings using Python's Turtle Module and the cmd Module
 
+## DevRake
+
+An ArcherSys OS  Oriented version of Eclipse Available in The ArcherSys Os Apporium
+
 ## Developer
 
 A person who codes for a living
@@ -48,6 +52,6 @@ The main web server Kernel of the ArcherVM Specification
 
 The Python module used to create interactive shell user interfaces
 
-## DevRake
+## DescriptionManager
 
-An ArcherSys OS  Oriented version of Eclipse Available in The ArcherSys Os Apporium
+The static PHP class that helps define the author and description properties
