@@ -41,5 +41,21 @@ Another Example uses Bootstrap:
   
 ?>
 ```
+Another Thing You Can Do in the Head Tag:
+```
+<?php
+require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
+use ArcherSys\Viewer\Contrib\View;
+$view = new View("Example", function(){
+DescriptionManager::addAuthor("John Doe");
+
+},function(){
+?>
+<h1>Hello World</h1>
+<?php
+});
+?>
+```
+
 This is the first Container Component to go in this API.
 To Develop in Python go [here](lib_cmd.md)
