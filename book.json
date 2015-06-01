@@ -3,7 +3,8 @@
         "disqus",
         "autocover",
         "share",
-        "toc"
+        "toc",
+        "jsbin"
     ],
     "pluginsConfig": {
         "disqus": {
