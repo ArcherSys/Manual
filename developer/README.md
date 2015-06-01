@@ -4,14 +4,7 @@
 
 The Philosophy is simple : Use the View.
 
-!FILENAME test.js
-```
-var a = 10;
-a = a + 1;
-
-console.log(a);
-```
-
+!FILENAME example.php
 ```
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
