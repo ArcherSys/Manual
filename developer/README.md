@@ -23,7 +23,8 @@ $view = new View("Example", function(){
 codeblock
 ```
 Another Example uses Bootstrap:
-!FILENAME example2.php
+!FILENAME exampletwo.php
+
 ```
 <?php
   require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
