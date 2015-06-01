@@ -9,6 +9,7 @@ ArcherSys
 ## What is ArcherSys?
 ArcherSys OS is a powerful OS in the form of a website.It has a powerful word processor with a ternimal experience fitted with Git, VENV-Built Python, MIT R, Uru, Ruby, Mozilla Rust, and more.
 
+Generation: II
 Features
 ==========
 ## Open Source Apps
