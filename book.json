@@ -4,7 +4,8 @@
         "autocover",
         "share",
         "toc",
-        "jsbin"
+        "jsbin",
+        "codeblock-filename"
     ],
     "pluginsConfig": {
         "disqus": {
