@@ -5,7 +5,6 @@
 The Philosophy is simple : Use the View.
 
 !FILENAME example.php
-
 ```
 <?php
 require_once $_SERVER["DOCUMENT_ROOT"]."\includes\View.php";
@@ -21,6 +20,7 @@ $view = new View("Example", function(){
 <?php
 });
 ?>
+codeblock
 ```
 Another Example uses Bootstrap:
 ```
