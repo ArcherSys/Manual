@@ -4,7 +4,7 @@ ArcherSys
 [![wercker status](https://app.wercker.com/status/0b21e51db0f7aef542b82c53638036ea/s/master "wercker status")](https://app.wercker.com/project/bykey/0b21e51db0f7aef542b82c53638036ea)
 
 [![wercker status](https://app.wercker.com/status/0b21e51db0f7aef542b82c53638036ea/m "wercker status")](https://app.wercker.com/project/bykey/0b21e51db0f7aef542b82c53638036ea)
-
+[![DOI](https://zenodo.org/badge/13599/ArcherSys/Manual.svg)](http://dx.doi.org/10.5281/zenodo.18227)
 
 ## What is ArcherSys?
 ArcherSys OS is a powerful OS in the form of a website.It has a powerful word processor with a ternimal experience fitted with Git, VENV-Built Python, MIT R, Uru, Ruby, Mozilla Rust, and more.
