@@ -17,6 +17,7 @@
        * [Applications](applications.md)
            * [PDFLint](users/apps/pdflint/README.md)
                * [PDFLint - First Steps](users/apps/pdflint/pdflint_first_steps.md)
+   * [CLI](cli.md)
 * [Book  3: For Artists](artists/README.md)
    * [CLI](artists/CLI/README.md)
        * [How to use Turtleist](artists/CLI/Turtleist/README.md)
