@@ -24,5 +24,5 @@
    * [CLI](artists/CLI/README.md)
        * [How to use Turtleist](artists/CLI/Turtleist/README.md)
 * [FAQ](faq.md)
-* Livebinders
+* [Livebinders](livebinders.md)
 
