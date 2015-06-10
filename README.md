@@ -30,7 +30,9 @@ ArcherSys
    * [CLI](artists/CLI/README.md)
        * [How to use Turtleist](artists/CLI/Turtleist/README.md)
 * [FAQ](faq.md)
-
+<script type="text/javascript" async defer
+  src="https://apis.google.com/js/platform.js?publisherid=114657577319697970021">
+</script>
 
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArcherSys/ArcherSys?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![PHP version](https://badge.fury.io/ph/acosf%2Farchersys.svg)](http://badge.fury.io/ph/acosf%2Farchersys)
