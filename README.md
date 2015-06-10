@@ -30,9 +30,7 @@ ArcherSys
    * [CLI](artists/CLI/README.md)
        * [How to use Turtleist](artists/CLI/Turtleist/README.md)
 * [FAQ](faq.md)
-<script type="text/javascript" async defer
-  src="https://apis.google.com/js/platform.js?publisherid=114657577319697970021">
-</script>
+
 
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArcherSys/ArcherSys?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![PHP version](https://badge.fury.io/ph/acosf%2Farchersys.svg)](http://badge.fury.io/ph/acosf%2Farchersys)
@@ -93,4 +91,15 @@ ArcherBash
 ### To Run The Python VENV on the Hard Drive:
   1. type ``` Scripts\activate ```
   2. 
-  
+
+
+<div class="g-plusone" data-size="medium" data-href="http://archerysosfoundation.gitbooks.io/archersys-os-manual/"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
