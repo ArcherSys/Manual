@@ -1,5 +1,13 @@
+<script type="text/javascript" src="https://app.box.com/js/static/select.js"></script>
+<script>
+
+</script>
+
 ArcherSys
 =========
+
+
+
 
 # Summary
 [ArcherSys OS Phone](archersys_os_phone.md)
@@ -94,7 +102,7 @@ ArcherBash
 
 
 <div class="g-plusone" data-size="medium" data-href="http://archerysosfoundation.gitbooks.io/archersys-os-manual/"></div>
-
+<div id="box-select" data-link-type="YOUR_LINK_TYPE" data-multiselect="YOUR_MULTISELECT" data-client-id="f1rfifvdg22yxugsfou4jb7bs8d75p1a"></div>
 <!-- Place this tag after the last +1 button tag. -->
 <script type="text/javascript">
   (function() {
